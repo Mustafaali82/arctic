@@ -1,0 +1,312 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Great thing never came from comfort zones.",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_NGBgTa": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_GiLxmN": {
+          "type": "caption",
+          "settings": {
+            "caption": "Comfortably uncomfortable",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_3WGz9F": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start with your Goals",
+            "heading_size": "h1"
+          }
+        },
+        "text_f38MzF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We cannot became what we want to be by</p><p>remaining what we are.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "caption_GiLxmN",
+        "heading_3WGz9F",
+        "text_f38MzF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_LVj3r6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9N7HkT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "Sleep",
+            "text": "<p>Optimize your sleep patterns</p>",
+            "link_label": "Link",
+            "link": ""
+          }
+        },
+        "column_tgLmGQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "Column",
+            "text": "<p>Optimize your sleep patterns</p>",
+            "link_label": "link",
+            "link": ""
+          }
+        },
+        "column_h3De9a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "Column",
+            "text": "<p>Optimize your sleep patterns</p>",
+            "link_label": "link",
+            "link": ""
+          }
+        },
+        "column_7XD8wD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "Column",
+            "text": "<p>Optimize your sleep patterns</p>",
+            "link_label": "link",
+            "link": ""
+          }
+        },
+        "column_VEbdVd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "Column",
+            "text": "<p>Optimize your sleep patterns</p>",
+            "link_label": "link",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9N7HkT",
+        "column_tgLmGQ",
+        "column_h3De9a",
+        "column_7XD8wD",
+        "column_VEbdVd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_FxAdyt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_CmPdpe": {
+          "type": "heading",
+          "settings": {
+            "heading": "The next Generation is here",
+            "heading_size": "h1"
+          }
+        },
+        "text_3ekk83": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_PV4wc6": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Take the Plunge",
+            "button_link_1": "shopify://collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "DIve Deeper",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CmPdpe",
+        "text_3ekk83",
+        "buttons_PV4wc6"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_WTRt9V": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_J3gpeL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jFR4KB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8kjgNA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WL7gMM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8Czd9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zLAmrb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/gordon-black-shirt2_1280x_feed2417-87f4-447e-914c-2cd1573bfa44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_J3gpeL",
+        "column_jFR4KB",
+        "column_8kjgNA",
+        "column_WL7gMM",
+        "column_8Czd9b",
+        "column_zLAmrb"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text_NGBgTa",
+    "multicolumn_LVj3r6",
+    "image_banner_FxAdyt",
+    "multicolumn_WTRt9V"
+  ]
+}
